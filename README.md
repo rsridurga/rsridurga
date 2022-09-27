@@ -15,6 +15,6 @@ I enjoy solving challenging problems and also known for my strong Debugging skil
 
 ### FUN FACTS
 
-I am interested mostly in fintech and payment industry.
-If not coding, I will be involved in my craft works.
-I am passionate towards psychology which helped to get a degree in psychology as well.Being passionate psychologist it makes me interested in reading self-help books.
+- I am interested mostly in fintech and payment industry.
+- I am passionate towards psychology which helped to get a degree in psychology as well.Being passionate psychologist it makes me interested in reading self-help books.
+- When I am not coding, I will be involved in my craft works.
