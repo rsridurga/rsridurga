@@ -10,7 +10,7 @@ I enjoy solving challenging problems and also known for my strong Debugging skil
 - 🔭 I have worked as Software Engineer for 4 years and Senior Software Engineer for 1 year.
 - 🌱 I’m currently learning Cloud with Azure Fundamentals AZ-900 Certificate.
 - 💬 Ask me about JAVA,Spring MVC,Spring Boot,Spring RestFul,SQL - MYSQL,ORACLE,POSTGRESQL,HTML,CSS,JavaScript and JQuery.
-- 📫 How to reach me: mail - rsridurga1995@gmail.com, LN - https://www.linkedin.com/in/sridurga-r-9a788b77/
+- 📫 How to reach me: mail - rsridurga1995@gmail.com, Ln - https://www.linkedin.com/in/sridurga-r-9a788b77/
 - 😄 Pronouns: She/Her
 
 ### FUN FACTS
